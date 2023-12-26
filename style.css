@@ -1,0 +1,139 @@
+#navs {
+  background-color: #ffffff;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.075);
+}
+#navbar-brand {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: -0.5px;
+}
+#navbar-brand:hover{
+  color: blue !important;
+}
+#navfeedback {
+  background-color: blue;
+  color: white;
+}
+#navlink {
+  color: #212529;
+  /* font-size: 15px;
+    opacity: 0.6; */
+}
+#navlink:hover{
+  color: blue;
+}
+.navbtnfeed {
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+}
+#showcase {
+  background-color: #f8f9fa;
+}
+#showcaseone {
+  font-family: "Newsreader", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 1;
+}
+#showcasetwo {
+  line-height: 1.5;
+  font-size: 1.22rem !important;
+  font-family: "Mulish", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol, Noto Color Emoji;
+}
+.centersvg {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+#intuitive-solution {
+  background-image: linear-gradient(45deg, #2937f0, #9f1ae2);
+  font-family: "Newsreader", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+#feature-head {
+  font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+#feature-icon {
+  font-size: 4rem;
+  background: -webkit-linear-gradient(#2937f0, #9f1ae2);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#enterdesign {
+  font-family: "Newsreader", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 3.5rem;
+}
+#information0 {
+  font-family: "Mulish", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol, Noto Color Emoji;
+  font-size: 1rem;
+}
+#enterdesignback {
+  background-color: #f8f9fa;
+}
+#information02 {
+  font-family: "Mulish", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+    Segoe UI Symbol, Noto Color Emoji;
+  line-height: 1.8.3rem;
+  font-size: 1.3rem;
+}
+#drawimage{
+  position: relative;
+  background-image: url(images/2eca9011-e7f1-4820-9b9d-a2bb14f2e206.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 15rem;
+}
+#drawimage::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.drawimagecont{
+  position: relative;
+}
+#drawimagecontfirst{
+  font-family: "Newsreader", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+#drawimagebtn2:hover{
+  background-color: white !important;
+  color: black !important;
+}
+#appdownload{
+  background-image:linear-gradient(45deg, #2937f0, #9f1ae2);
+  color: white;
+}
+#appdownpara{
+  letter-spacing: -1.5px;
+}
+#footer{
+  background-color: black;
+  font-family: "Mulish", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+  Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+  Segoe UI Symbol, Noto Color Emoji;
+}
+.modal-header{
+  background-image:linear-gradient(45deg, #2937f0, #9f1ae2);
+  color: white;
+}
+.modal-header h5{
+  font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+div .d-grid button{
+  background-color: #0610a5b9 !important;
+}
